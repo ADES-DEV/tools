@@ -2,11 +2,14 @@
 
 ## Заключаем чекбокс и лейбл в контейнер
 
-	<div class="checkbox">. 
-  		<input type="checkbox" name="checkbox" value="Y">
+Разметка
+
+	<div class="checkbox">
+		<input type="checkbox" name="checkbox" value="Y">
 		<label for="checkbox">Запомнить меня на этом компьютере</label>
 	</div>
 
+Стили
 
 	<style>
 		.checkbox input[type="checkbox"] {
