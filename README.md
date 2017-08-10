@@ -1,15 +1,13 @@
 # Стилизация checkbox на чистом CSS
 
-## Заключаем чекбокс и лейбл в контейнер
-
-Разметка
+Заключаем чекбокс и лейбл в контейнер
 
 	<div class="checkbox">
 		<input type="checkbox" name="checkbox" value="Y">
 		<label for="checkbox">Запомнить меня на этом компьютере</label>
 	</div>
 
-Стили
+Определяем стили
 
 	<style>
 		.checkbox input[type="checkbox"] {
