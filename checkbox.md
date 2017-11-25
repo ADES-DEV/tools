@@ -36,7 +36,6 @@
 		    position: relative;
 		    font-weight: normal;
 		    margin: 0 0 .6em 5px;
-		    font-weight: normal;
 		    font-size: .9em;
 		    text-transform: lowercase
 
